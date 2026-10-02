@@ -1,0 +1,1 @@
+import{c as a,w as t,a as e,o,d as s,m as r,k as n}from"./index-TEAOKgv-.js";const p={__name:"StudentTabs",setup(c){return(u,_)=>(o(),a(e(n),null,{default:t(()=>[s(e(r))]),_:1}))}};export{p as default};

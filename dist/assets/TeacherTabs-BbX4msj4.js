@@ -1,0 +1,1 @@
+import{c as a,w as t,a as e,o,d as r,m as s,k as c}from"./index-TEAOKgv-.js";const p={__name:"TeacherTabs",setup(n){return(u,_)=>(o(),a(e(c),null,{default:t(()=>[r(e(s))]),_:1}))}};export{p as default};
